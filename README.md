@@ -2,7 +2,7 @@
 Test cases for registration process in Chrome browser.
 ## Preconditions for test :
 1. Google Chrome browser instaled on user computer.
-2. Internet connection on on user computer.
+2. Internet connection on user computer.
 3. Valid user email adress.
 ### Test cases: 
 | Number | Active | Expected result(positive) | Negative result  | Test result |
